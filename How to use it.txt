@@ -1,0 +1,5 @@
+First : Place the Locker.bat file in the same directory as the file you want to hide
+Second : Change the word File in lines 4,6,14 into the name of the file you want to hide
+Third : Change the password in the line 12 to the password you want to use
+Fourth : Save the file
+ 
